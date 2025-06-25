@@ -50,5 +50,6 @@
 - Product filtering by category or price
 
 ---
-
+## Live Demo
+Check out the deployed page here: **https://buy-hive-seven.vercel.app/**
 Made with ❤️ using only HTML, CSS, and Vanilla JavaScript.
